@@ -4,7 +4,7 @@ According to the **official position of the Pale Moon development team**, such p
 
 | Original extension | Fix for PM27 | Status | Risk |
 | ------------------ | ------------ | ------ | ---- |
-| [Decentraleyes](https://addons.mozilla.org/addon/decentraleyes/) | [Download](here) | Fully functional | Low |
+| [Decentraleyes](https://addons.mozilla.org/addon/decentraleyes/) | [Download](https://github.com/JustOff/pm27-sdk-addons/releases/download/0.0.1/decentraleyes-1.3.5-pm27.xpi) | Fully functional | Low |
 | [Scroll To Top](https://addons.mozilla.org/addon/scroll-to-top/) | [Download](here) | Fully functional | Low |
 | [Self-Destructing Cookies](https://addons.mozilla.org/addon/self-destructing-cookies/) | [Download](here) | Core functional, if Icon & Menu disabled | Average |
 
