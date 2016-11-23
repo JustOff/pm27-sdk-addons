@@ -2,7 +2,7 @@
 
 According to the **official position of the Pale Moon development team**, such patching should be considered as hacking, and they cannot and **will not provide any guarantees** that anything will work or keep working; **nor** will they provide **any support for anyone running an SDK extension** that has been hacked to make it to run with the toolkit modules. **That includes all support, also for general browser use**, because SDK-sourced extensions may break the browser if forced to run.
 
-Please, use these addons only as last resort measure! Better ask the developer of the original version to provide non SDK-based solution. Don't try to install all from the list or the extension you never used before.
+Please, use these addons only as last resort measure! Better ask the developer of the original version to provide non SDK-based solution. Don't try to install all from the list or the extension you never used before. [See also ...](https://forum.palemoon.org/viewtopic.php?f=16&t=13745)
 
 | Original extension | Fix for PM27 | Status | Alternative |
 | ------------------ | ------------ | ------ | ----------- |
