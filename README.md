@@ -6,6 +6,7 @@ Please, use these addons only as last resort measure! Better ask the developer o
 
 | Original extension | Fix for PM27 | Status | Alternative |
 | ------------------ | ------------ | ------ | ----------- |
+| [Add URL to Window Title](https://addons.mozilla.org/addon/add-url-to-window-title/) | [Download](https://github.com/JustOff/pm27-sdk-addons/releases/download/0.0.1/add_url_to_window_title_advanced_keepass_usage-1.01-pm27.xpi) | Fully functional <sup>[[*]](#restart)</sup> | Unknown |
 | [Decentraleyes](https://addons.mozilla.org/addon/decentraleyes/) | [Download](https://github.com/JustOff/pm27-sdk-addons/releases/download/0.0.1/decentraleyes-1.3.5-pm27.xpi) | Fully functional <sup>[[*]](#restart)</sup> | Unknown |
 | [I don't care about cookies](https://addons.mozilla.org/addon/i-dont-care-about-cookies/) | [Download](https://github.com/JustOff/pm27-sdk-addons/releases/download/0.0.1/i_dont_care_about_cookies-2.6.2-pm27.xpi) | Core functional, context menu disabled <sup>[[*]](#restart)</sup> | Unknown |
 | [Scroll To Top](https://addons.mozilla.org/addon/scroll-to-top/) | [Download](https://github.com/JustOff/pm27-sdk-addons/releases/download/0.0.1/scroll_to_top-4.5.5-pm27.xpi) | Fully functional <sup>[[*]](#restart)</sup> | Unknown |
