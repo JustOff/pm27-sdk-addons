@@ -4,21 +4,19 @@
           <em:id>reddites@Off.JustOff</em:id>
           <em:type>2</em:type>
           <em:bootstrap>true</em:bootstrap>
-          <em:unpack>false</em:unpack>
           <em:version>4.6.1-pm</em:version>
-          <em:name>Reddit Enhancement Suite</em:name>
+          <em:name>Reddit Enhancement Suite (Pale Moon 27 fix)</em:name>
           <em:description>A suite of modules that enhance your Reddit browsing experience</em:description>
           <em:creator>honestbleeps</em:creator>
+          <em:contributor>Off JustOff &lt;Off.Just.Off@gmail.com&gt;</em:contributor>
+          <em:homepageURL>https://github.com/JustOff/pm27-sdk-addons</em:homepageURL>
 
           <em:targetApplication>
             <Description>
               <em:id>{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}</em:id>
               <em:minVersion>27.0.0</em:minVersion>
               <em:maxVersion>*</em:maxVersion>
-</Description>
-</em:targetApplication>
-
-
+            </Description>
+          </em:targetApplication>
     </Description>
-
 </RDF>
