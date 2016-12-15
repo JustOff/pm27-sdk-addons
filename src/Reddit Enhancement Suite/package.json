@@ -1,11 +1,11 @@
 {
 	"name": "reddit_res",
 	"title": "Reddit Enhancement Suite",
-	"id": "jid1-xUfzOsOFlzSOXg@jetpack",
+	"id": "reddites@Off.JustOff",
 	"description": "A suite of modules that enhance your Reddit browsing experience",
 	"author": "honestbleeps",
 	"license": "GPL-3.0",
-	"version": "4.6.1",
+	"version": "4.6.1-pm",
 	"permissions": {
 		"private-browsing": true,
 		"unsafe-content-script": true

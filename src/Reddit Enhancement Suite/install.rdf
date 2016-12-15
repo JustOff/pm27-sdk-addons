@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
     <Description about="urn:mozilla:install-manifest">
-          <em:id>jid1-xUfzOsOFlzSOXg@jetpack</em:id>
+          <em:id>reddites@Off.JustOff</em:id>
           <em:type>2</em:type>
           <em:bootstrap>true</em:bootstrap>
           <em:unpack>false</em:unpack>
-          <em:version>4.6.1</em:version>
+          <em:version>4.6.1-pm</em:version>
           <em:name>Reddit Enhancement Suite</em:name>
           <em:description>A suite of modules that enhance your Reddit browsing experience</em:description>
           <em:creator>honestbleeps</em:creator>
