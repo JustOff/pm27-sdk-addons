@@ -4,7 +4,7 @@
 "use strict";
 
 const { utils: Cu } = Components;
-const rootURI = __SCRIPT_URI_SPEC__.replace("bootstrap.js", "");
+const rootURI = "chrome://reddites/content/";
 const COMMONJS_URI = "resource://gre/modules/jetpack";
 const { require } = Cu.import(COMMONJS_URI + "/toolkit/require.js", {});
 const { Bootstrap } = require(COMMONJS_URI + "/sdk/addon/bootstrap.js");
