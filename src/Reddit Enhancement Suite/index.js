@@ -18,7 +18,7 @@ let viewFor = require('sdk/view/core').viewFor;
 let localStorage = ss.storage;
 
 //let { ToggleButton } = require('sdk/ui/button/toggle');
-let styleSheetButton;
+//let styleSheetButton;
 
 // require chrome allows us to use XPCOM objects...
 const {Cc,Ci,Cu,components} = require('chrome');

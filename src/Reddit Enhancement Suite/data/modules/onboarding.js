@@ -20,7 +20,7 @@ addModule('onboarding', function(module, moduleID) {
 		// if this is the first time this version has been run, pop open the what's new tab, background focused.
 		if (RESStorage.getItem(storageKey) === null) {
 			RESStorage.setItem(storageKey, 'true');
-			RESUtils.openLinkInNewTab(RESMetadata.updatedURL, false);
+//			RESUtils.openLinkInNewTab(RESMetadata.updatedURL, false);
 		}
 	};
 });
