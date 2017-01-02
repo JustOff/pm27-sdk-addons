@@ -6,7 +6,7 @@
 
 * Although jpm usually generates *bootstrap.js* automatically, you need to use the custom one to specify correct path to PMkit. To do so, extract *bootstrap.js* from xpi archive and replace "*commonjs*" with "*jetpack*" at the corresponding place. You also need to specify Pale Moon as a target application in *package.json*. Use "*{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}*" as a name of engine and "*27.1.0b1*" as a minimal version. These are the basic steps required to connect PMkit and then use jpm to build, test, run and debug with Pale Moon.
 
-* The further actions depend from the API that actually used by the extension. Because the set of "*ui*" modules is specific to the Australis interface they can't be used in Pale Moon. All parts of code that rely on them have to be rewriten using "*widget*" or self-created routines to manage the buttons and toolbars.
+* The further actions depend from the API that actually used by the extension. Because the set of "*ui*" modules is specific to the Australis interface they can't be used in Pale Moon. All parts of code that rely on them have to be rewriten using "*widget*" or self-created routines to manage the buttons and toolbars directly.
 
 * Since Pale Moon does not use separate processes for browser's UI and web content (e10s) and does not support WebExtensions the corresponding "*remote/parent*", "*remote/child*" and "*webextension*" modules are absent in PMkit completely. This also applies to all API that were or will be added to Mozilla Add-on SDK after Gecko 38.
 
