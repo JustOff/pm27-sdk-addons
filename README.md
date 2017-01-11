@@ -6,7 +6,7 @@ According to the **official position of the Pale Moon development team**, such p
 
 Please, use these addons only as last resort measure! Better ask the developer of the original version to provide non SDK-based solution. Don't try to install all from the list or the extension you never used before. [See also ...](https://forum.palemoon.org/viewtopic.php?f=16&t=13745)
 
-| Original extension | Fix for PM27 | Status | Alternative |
+| Original extension | Fix for PM27.0 | Status | Alternative |
 | ------------------ | ------------ | ------ | ----------- |
 | [Add URL to Window Title](https://addons.mozilla.org/addon/add-url-to-window-title/) | [Download](https://github.com/JustOff/pm27-sdk-addons/releases/download/0.0.1/add_url_to_window_title_advanced_keepass_usage-1.01-pm27.xpi) | Fully functional <sup>[[*]](#restart)</sup> | [[1]](https://addons.mozilla.org/addon/customize_titlebar_v2/) |
 | [Decentraleyes](https://addons.mozilla.org/addon/decentraleyes/) | [Download](https://github.com/JustOff/pm27-sdk-addons/releases/download/0.0.1/decentraleyes-1.3.7-pm27.xpi) | Fully functional <sup>[[*]](#restart)</sup><sup>[[#]](#unstable)</sup> | Unknown |
