@@ -1,4 +1,6 @@
-### Here is the set of SDK-based extensions patched to run in Pale Moon 27.0
+### :boom: Pale Moon 27.1 [is coming](http://www.palemoon.org/unstable/) with proper SDK support using [PMkit](https://github.com/JustOff/pm27-sdk-addons/blob/master/PMkit.md)
+
+#### Below is the set of SDK-based extensions patched to run in Pale Moon 27.0
 
 According to the **official position of the Pale Moon development team**, such patching should be considered as hacking, and they cannot and **will not provide any guarantees** that anything will work or keep working; **nor** will they provide **any support for anyone running an SDK extension** that has been hacked to make it to run with the toolkit modules. **That includes all support, also for general browser use**, because SDK-sourced extensions may break the browser if forced to run.
 
