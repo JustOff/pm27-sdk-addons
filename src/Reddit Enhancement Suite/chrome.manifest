@@ -1,3 +1,0 @@
-content reddites ./
-
-override chrome://reddites/content/package.json chrome://reddites/content/fackage.json
