@@ -10,4 +10,4 @@
 
 * Despite the experimental status of PMkit, several popular add-ons have already been successfully adapted and work fine in Pale Moon. Some of them run even faster and use less memory than in the browser for which they were originally created. Nevertheless, traditional bootstrapped and XUL extensions remain the preferred and most optimal types of add-ons for Pale Moon.
 
-[1] This document is currently applicable to Pale Moon [27.1.0 beta](https://forum.palemoon.org/viewtopic.php?f=1&t=14455)
+[1] This document is currently applicable to [Pale Moon 27.1.0 beta](https://forum.palemoon.org/viewtopic.php?f=1&t=14455).
