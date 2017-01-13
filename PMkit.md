@@ -1,4 +1,4 @@
-<h3 align="center">PMkit documentation draft v1.1<sup>[[1]](#note1)</sup></h3>
+<h3 align="center">PMkit documentation draft v1.1<sup><a href="#note1">[1]</a></sup></h3>
 
 * PMkit is an experimental Pale Moon library that provides basic compatibility layer with [Mozilla Add-on SDK](https://developer.mozilla.org/en-US/Add-ons/SDK). It implements the most of the API but has the differences described below in the document. Thus, to successfuly run in Pale Moon, the extensions initially targeted to the other browsers (such as Firefox or SeaMonkey) should be properly adapted.
 
