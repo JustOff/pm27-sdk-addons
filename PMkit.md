@@ -1,4 +1,4 @@
-<h3 align="center">PMkit documentation draft v1.1<sup>[1]</sup></h3>
+<h3 align="center">PMkit documentation draft v1.1<sup>[[1]](#note1)</sup></h3>
 
 * PMkit is an experimental Pale Moon library that provides basic compatibility layer with [Mozilla Add-on SDK](https://developer.mozilla.org/en-US/Add-ons/SDK). It implements the most of the API but has the differences described below in the document. Thus, to successfuly run in Pale Moon, the extensions initially targeted to the other browsers (such as Firefox or SeaMonkey) should be properly adapted.
 
@@ -10,4 +10,4 @@
 
 * Despite the experimental status of PMkit, several popular add-ons have already been successfully adapted and work fine in Pale Moon. Some of them run even faster and use less memory than in the browser for which they were originally created. Nevertheless, traditional bootstrapped and XUL extensions remain the preferred and most optimal types of add-ons for Pale Moon.
 
-[1] This document is currently applicable to [Pale Moon 27.1.0 beta](https://forum.palemoon.org/viewtopic.php?f=1&t=14455).
+<a name="note1">[1]</a> This document is currently applicable to [Pale Moon 27.1.0 beta](https://forum.palemoon.org/viewtopic.php?f=1&t=14455).
