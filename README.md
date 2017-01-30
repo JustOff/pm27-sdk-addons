@@ -1,4 +1,17 @@
-### :boom: Pale Moon 27.1 [is coming](http://www.palemoon.org/unstable/) with proper SDK support using [PMkit](https://github.com/JustOff/pm27-sdk-addons/blob/master/PMkit.md), see [more details...](https://forum.palemoon.org/viewtopic.php?p=103913#p103913)
+### :boom: Pale Moon 27.1 [is coming](http://www.palemoon.org/unstable/) with proper SDK support using [PMkit](https://github.com/JustOff/pm27-sdk-addons/blob/master/PMkit.md), see [more details...](https://forum.palemoon.org/viewtopic.php?p=103913#p103913)<br><br>
+
+| Extension Name | Pale Moon 27.1 Compatibility Status | Alternative |
+| -------------- | ----------------------------------- | ----------- |
+| [Add URL to Window Title](https://addons.mozilla.org/addon/add-url-to-window-title/) | Supported since  [1.03](https://addons.mozilla.org/en-US/firefox/addon/add-url-to-window-title/versions/1.03) | [[1]](https://addons.mozilla.org/addon/customize_titlebar_v2/) |
+| [Decentraleyes](https://addons.mozilla.org/addon/decentraleyes/) | Support request was [accepted](https://github.com/Synzvato/decentraleyes/pull/137), awaiting for release <sup>[[*]](#testing)</sup> | Unknown |
+| [I don't care about cookies](https://addons.mozilla.org/addon/i-dont-care-about-cookies/) | Support request was sent via e-mail (2017.01.24) <sup>[[*]](#testing)</sup> | [[1]](https://www.kiboke-studio.hr/i-dont-care-about-cookies/abp/) |
+| [Reddit Enhancement Suite](https://addons.mozilla.org/addon/reddit-enhancement-suite/) | Add-on should be forked based on [4.6.1](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/versions/4.6.1) <sup>[[*]](#testing)</sup> | [[1]](http://userscripts-mirror.org/scripts/show/82915) |
+| [Reload Plus](https://addons.mozilla.org/addon/reload-plus/) | Supported since [5.2.0](https://addons.mozilla.org/en-US/firefox/addon/reload-plus/versions/5.2.0) | Unknown |
+| [Scroll To Top](https://addons.mozilla.org/addon/scroll-to-top/) | Support request was [accepted](https://github.com/pratikabu/scrolltotop/pull/52), awaiting for release <sup>[[*]](#testing)</sup> | Unknown |
+| [Self-Destructing Cookies](https://addons.mozilla.org/addon/self-destructing-cookies/) | Add-on should be forked based on [0.4.11](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/versions/0.4.11) <sup>[[*]](#testing)</sup> | [[1]](https://addons.mozilla.org/addon/cookies-exterminator/), [[2]](https://addons.palemoon.org/extensions/privacy-and-security/crush-those-cookies/) |
+| [signTextJS plus](https://addons.mozilla.org/addon/signtextjs-plus/) | Add-on should be forked based on [0.8.6](https://addons.mozilla.org/en-US/firefox/addon/signtextjs-plus/versions/0.8.6) <sup>[[*]](#testing)</sup> | Unknown |
+| [YouTube ALL HTML5](https://addons.mozilla.org/addon/youtube-all-html5/) | Supported since  [3.1.1](https://addons.mozilla.org/en-US/firefox/addon/youtube-all-html5/versions/3.1.1) | [[1]](https://greasyfork.org/en/scripts/search?q=youtube) |
+<sup><a name="testing">[*]</a> : &nbsp;Can be temporarily installed using [Moon Tester Tool](https://addons.palemoon.org/extensions/moon-tester-tool/)<br><br><hr>
 
 #### Below is the set of SDK-based extensions patched to run in Pale Moon 27.0
 
