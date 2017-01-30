@@ -1,10 +1,13 @@
-### :boom: Pale Moon 27.1 [is coming](http://www.palemoon.org/unstable/) with proper SDK support using [PMkit](https://github.com/JustOff/pm27-sdk-addons/blob/master/PMkit.md), see [more details...](https://forum.palemoon.org/viewtopic.php?p=103913#p103913)<br><br>
+### :boom: Pale Moon 27.1 [is coming](http://www.palemoon.org/unstable/) with proper SDK support using [PMkit](https://github.com/JustOff/pm27-sdk-addons/blob/master/PMkit.md), see [more details...](https://forum.palemoon.org/viewtopic.php?p=103913#p103913)
 
 | Extension Name | Pale Moon 27.1 Compatibility Status | Alternative |
 | -------------- | ----------------------------------- | ----------- |
 | [Add URL to Window Title](https://addons.mozilla.org/addon/add-url-to-window-title/) | Supported since  [1.03](https://addons.mozilla.org/en-US/firefox/addon/add-url-to-window-title/versions/1.03) | [[1]](https://addons.mozilla.org/addon/customize_titlebar_v2/) |
 | [Decentraleyes](https://addons.mozilla.org/addon/decentraleyes/) | Support request was [accepted](https://github.com/Synzvato/decentraleyes/pull/137), awaiting for release <sup>[[*]](#testing)</sup> | Unknown |
+| [Emoji Cheatsheet](https://addons.mozilla.org/addon/emoji-cheatsheet/) | Support request was [accepted](https://github.com/johannhof/emoji-helper/pull/83), awaiting for release | Unknown |
+| [Enter Selects](https://addons.mozilla.org/addon/enter-selects/) | Support request was [sent](https://github.com/Mardak/enterSelects/pull/17) | Unknown |
 | [I don't care about cookies](https://addons.mozilla.org/addon/i-dont-care-about-cookies/) | Support request was sent via e-mail (2017.01.24) <sup>[[*]](#testing)</sup> | [[1]](https://www.kiboke-studio.hr/i-dont-care-about-cookies/abp/) |
+| [Play/Pause](https://addons.mozilla.org/en-US/firefox/addon/play-pause/) | Support request was [sent](https://github.com/DanielKamkha/PlayPauseFirefox/pull/27) <sup>[[*]](#testing)</sup> | Unknown |
 | [Reddit Enhancement Suite](https://addons.mozilla.org/addon/reddit-enhancement-suite/) | Add-on should be forked based on [4.6.1](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/versions/4.6.1) <sup>[[*]](#testing)</sup> | [[1]](http://userscripts-mirror.org/scripts/show/82915) |
 | [Reload Plus](https://addons.mozilla.org/addon/reload-plus/) | Supported since [5.2.0](https://addons.mozilla.org/en-US/firefox/addon/reload-plus/versions/5.2.0) | Unknown |
 | [Scroll To Top](https://addons.mozilla.org/addon/scroll-to-top/) | Support request was [accepted](https://github.com/pratikabu/scrolltotop/pull/52), awaiting for release <sup>[[*]](#testing)</sup> | Unknown |
