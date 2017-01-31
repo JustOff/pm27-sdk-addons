@@ -1,6 +1,6 @@
 ### :boom: Pale Moon 27.1 [is coming](http://www.palemoon.org/unstable/) with proper SDK support using [PMkit](https://github.com/JustOff/pm27-sdk-addons/blob/master/PMkit.md), see [more details...](https://forum.palemoon.org/viewtopic.php?p=103913#p103913)
 
-| Extension Name | Pale Moon 27.1 Compatibility Status | Alternative |
+| Extension Name | Pale Moon 27.1 Compatibility Status | Alternative (non-SDK) |
 | -------------- | ----------------------------------- | ----------- |
 | [Add URL to Window Title](https://addons.mozilla.org/addon/add-url-to-window-title/) | Supported since  [1.03](https://addons.mozilla.org/en-US/firefox/addon/add-url-to-window-title/versions/1.03) | [[1]](https://addons.mozilla.org/addon/customize_titlebar_v2/) |
 | [Decentraleyes](https://addons.mozilla.org/addon/decentraleyes/) | Support request was [accepted](https://github.com/Synzvato/decentraleyes/pull/137), awaiting for release <sup>[[*]](#testing)</sup> | Unknown |
