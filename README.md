@@ -13,6 +13,7 @@
 | [Scroll To Top](https://addons.mozilla.org/addon/scroll-to-top/) | Support request was [accepted](https://github.com/pratikabu/scrolltotop/pull/52), awaiting for release <sup>[[*]](#testing)</sup> | Unknown |
 | [Self-Destructing Cookies](https://addons.mozilla.org/addon/self-destructing-cookies/) | Add-on should be forked based on [0.4.11](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/versions/0.4.11) <sup>[[*]](#testing)</sup> | [[1]](https://addons.mozilla.org/addon/cookies-exterminator/), [[2]](https://addons.palemoon.org/extensions/privacy-and-security/crush-those-cookies/) |
 | [signTextJS plus](https://addons.mozilla.org/addon/signtextjs-plus/) | Add-on should be forked based on [0.8.6](https://addons.mozilla.org/en-US/firefox/addon/signtextjs-plus/versions/0.8.6) <sup>[[*]](#testing)</sup> | Unknown |
+| [StylRRR](https://addons.mozilla.org/addon/stylrrr/) | Add-on should be forked based on [0.1.4](https://addons.mozilla.org/en-US/firefox/addon/stylrrr/versions/0.1.4) <sup>[[*]](#testing)</sup> | [[1]](https://addons.mozilla.org/addon/stylish/) |
 | [YouTube ALL HTML5](https://addons.mozilla.org/addon/youtube-all-html5/) | Supported since  [3.1.1](https://addons.mozilla.org/en-US/firefox/addon/youtube-all-html5/versions/3.1.1) | [[1]](https://greasyfork.org/en/scripts/search?q=youtube) |
 <sup><a name="testing">[*]</a> : &nbsp;Can be temporarily installed using [Moon Tester Tool](https://addons.palemoon.org/extensions/moon-tester-tool/)<br><br><hr>
 
