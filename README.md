@@ -17,6 +17,7 @@
 | [signTextJS plus](https://addons.mozilla.org/addon/signtextjs-plus/) | Add-on should be forked based on [0.8.6](https://addons.mozilla.org/en-US/firefox/addon/signtextjs-plus/versions/0.8.6) <sup>[[*]](#testing)</sup> | Unknown |
 | [StylRRR](https://addons.mozilla.org/addon/stylrrr/) | Add-on should be forked based on [0.1.4](https://addons.mozilla.org/en-US/firefox/addon/stylrrr/versions/0.1.4) <sup>[[*]](#testing)</sup> | [[1]](https://addons.mozilla.org/addon/stylish/) |
 | [YouTube ALL HTML5](https://addons.mozilla.org/addon/youtube-all-html5/) | Supported since  [3.1.1](https://addons.mozilla.org/en-US/firefox/addon/youtube-all-html5/versions/3.1.1) | [[1]](https://greasyfork.org/en/scripts/search?q=youtube) |
+| [YouTube No Buffer](https://addons.mozilla.org/addon/youtube-no-buffer/) | Replaced by [YouTube Lazy Load](https://addons.palemoon.org/extensions/youtube-lazy-load/) (non-SDK) | Unknown |
 <sup><a name="testing">[*]</a> : &nbsp;Can be temporarily installed using [Moon Tester Tool](https://addons.palemoon.org/extensions/moon-tester-tool/)<br><br><hr>
 
 #### Below is the set of SDK-based extensions patched to run in Pale Moon 27.0
