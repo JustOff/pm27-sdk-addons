@@ -4,6 +4,7 @@
 | -------------- | ----------------------------------- | ----------- |
 | [Add URL to Window Title](https://addons.mozilla.org/addon/add-url-to-window-title/) | Supported since  [1.03](https://addons.mozilla.org/en-US/firefox/addon/add-url-to-window-title/versions/1.03) | [[1]](https://addons.mozilla.org/addon/customize_titlebar_v2/) |
 | [cliget](https://addons.mozilla.org/addon/cliget/) | Support request was [accepted](https://github.com/zaidka/cliget/pull/43), awaiting for release | Unknown |
+| [Close last tab with middle-click](https://addons.mozilla.org/addon/close-last-tab-with-middle-/) | Replaced by [Close last tab with middle-click](https://forum.palemoon.org/viewtopic.php?p=99210#p99210) (non-SDK) | Unknown |
 | [Decentraleyes](https://addons.mozilla.org/addon/decentraleyes/) | Support request was [accepted](https://github.com/Synzvato/decentraleyes/pull/137), awaiting for release <sup>[[*]](#testing)</sup> | Unknown |
 | [Emoji Cheatsheet](https://addons.mozilla.org/addon/emoji-cheatsheet/) | Support request was [accepted](https://github.com/johannhof/emoji-helper/pull/83), awaiting for release | Unknown |
 | [Enter Selects](https://addons.mozilla.org/addon/enter-selects/) | Support request was [sent](https://github.com/Mardak/enterSelects/pull/17) | Unknown |
