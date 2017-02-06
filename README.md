@@ -10,7 +10,7 @@
 | [Enter Selects](https://addons.mozilla.org/addon/enter-selects/) | Support request was [sent](https://github.com/Mardak/enterSelects/pull/17) | Unknown |
 | [I don't care about cookies](https://addons.mozilla.org/addon/i-dont-care-about-cookies/) | Support request was sent via e-mail (2017.01.24) <sup>[[*]](#testing)</sup> | [[1]](https://www.kiboke-studio.hr/i-dont-care-about-cookies/abp/) |
 | [Load from Cache](https://addons.mozilla.org/addon/load-from-cache/) | [✓] Replaced by [Greedy Cache](https://addons.palemoon.org/extensions/greedy-cache/) (non-SDK) | Unknown |
-| [Play/Pause](https://addons.mozilla.org/en-US/firefox/addon/play-pause/) | Support request was [accepted](https://github.com/DanielKamkha/PlayPauseFirefox/pull/27), awaiting for release <sup>[[*]](#testing)</sup> | Unknown |
+| [Play/Pause](https://addons.mozilla.org/en-US/firefox/addon/play-pause/) | [✓] Supported since [1.2.2](https://addons.mozilla.org/en-US/firefox/addon/play-pause/versions/1.2.2) | Unknown |
 | [Reddit Enhancement Suite](https://addons.mozilla.org/addon/reddit-enhancement-suite/) | Add-on should be forked based on [4.6.1](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/versions/4.6.1) <sup>[[*]](#testing)</sup> | [[1]](http://userscripts-mirror.org/scripts/show/82915) |
 | [Reload Plus](https://addons.mozilla.org/addon/reload-plus/) | [✓] Supported since [5.2.0](https://addons.mozilla.org/en-US/firefox/addon/reload-plus/versions/5.2.0) | Unknown |
 | [Scroll To Top](https://addons.mozilla.org/addon/scroll-to-top/) | Support request was [accepted](https://github.com/pratikabu/scrolltotop/pull/52), awaiting for release <sup>[[*]](#testing)</sup> | Unknown |
