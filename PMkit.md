@@ -12,7 +12,7 @@
 
 <a name="note1">[1]</a> This document is currently applicable to [Pale Moon 27.1.0 beta](https://forum.palemoon.org/viewtopic.php?f=1&t=14455).
 
-<a name="note2">[2]</a> Example of *package.json* for add-on that targets to both Firefox and Pale Moon:
+<a name="note2">[2]</a> Example of *package.json* for add-on that is targeted to both Firefox and Pale Moon:
 ```
 {
   "name": "my-addon",
