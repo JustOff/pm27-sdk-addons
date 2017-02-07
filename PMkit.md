@@ -8,7 +8,7 @@
 
 * You should also take into account that Pale Moon uses his own browser core named Goanna. The main differences from Mozilla products that follow from this are described in a [separate document](http://www.palemoon.org/technical.shtml#Firefox_Differences). So, any routines not related to SDK must be also brought into line with the target environment.
 
-* Despite the experimental status of PMkit, several popular add-ons have already been successfully adapted and work fine in Pale Moon. Some of them run even faster and use less memory than in the browser for which they were originally created. Nevertheless, traditional bootstrapped and XUL extensions remain the preferred and most optimal types of add-ons for Pale Moon.
+* Despite the experimental status of PMkit, several popular add-ons have already been [successfully adapted](https://github.com/JustOff/pm27-sdk-addons/blob/master/README.md) and work fine in Pale Moon. Some of them run even faster and use less memory than in the browser for which they were originally created. Nevertheless, traditional bootstrapped and XUL extensions remain the preferred and most optimal types of add-ons for Pale Moon.
 
 <a name="note1">[1]</a> This document is currently applicable to [Pale Moon 27.1.0b1 and above](https://forum.palemoon.org/viewtopic.php?f=1&t=14455).
 
