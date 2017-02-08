@@ -1,4 +1,4 @@
-### :heavy_exclamation_mark: SDK-based add-ons can be run in Pale Moon 27.1, but they should be [properly adapted](https://github.com/JustOff/pm27-sdk-addons/blob/master/PMkit.md).
+### SDK-based add-ons can be run in Pale Moon 27.1, but they should be [properly adapted](https://github.com/JustOff/pm27-sdk-addons/blob/master/PMkit.md).
 
 | Original Extension | Pale Moon 27.1 Compatibility Status | Alternative (non-SDK) |
 | -------------- | ----------------------------------- | ----------- |
