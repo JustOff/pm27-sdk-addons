@@ -1,4 +1,4 @@
-### :boom: Pale Moon 27.1 [is coming](http://www.palemoon.org/unstable/) with proper SDK support using [PMkit](https://github.com/JustOff/pm27-sdk-addons/blob/master/PMkit.md), see [more details...](https://forum.palemoon.org/viewtopic.php?p=103913#p103913)
+### :bulb: SDK-based add-ons can be run in Pale Moon 27.1, but they should be [properly adapted](https://github.com/JustOff/pm27-sdk-addons/blob/master/PMkit.md).
 
 | Original Extension | Pale Moon 27.1 Compatibility Status | Alternative (non-SDK) |
 | -------------- | ----------------------------------- | ----------- |
