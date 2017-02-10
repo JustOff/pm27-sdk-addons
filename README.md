@@ -7,7 +7,7 @@
 | [Close last tab with middle-click](https://addons.mozilla.org/addon/close-last-tab-with-middle-/) | [✓] Replaced by [Close last tab with middle-click](https://forum.palemoon.org/viewtopic.php?p=99210#p99210) (non-SDK) | Unknown |
 | [Decentraleyes](https://addons.mozilla.org/addon/decentraleyes/) | [✓] Supported since [1.3.7](https://addons.palemoon.org/extensions/decentraleyes/) | Unknown |
 | [Emoji Cheatsheet](https://addons.mozilla.org/addon/emoji-cheatsheet/) | Support request was [accepted](https://github.com/johannhof/emoji-helper/pull/83), awaiting for release | Unknown |
-| [Enjoy Reading](https://addons.mozilla.org/en-US/firefox/addon/enjoy-reading/) | Support request was [sent](https://github.com/aeris/enjoy-reading/pull/2) | Unknown |
+| [Enjoy Reading](https://addons.mozilla.org/addon/enjoy-reading/) | Support request was [sent](https://github.com/aeris/enjoy-reading/pull/2) | Unknown |
 | [Enter Selects](https://addons.mozilla.org/addon/enter-selects/) | Support request was [sent](https://github.com/Mardak/enterSelects/pull/17) | Unknown |
 | [I don't care about cookies](https://addons.mozilla.org/addon/i-dont-care-about-cookies/) | Support request was sent via e-mail (2017.01.24) <sup>[[*]](#testing)</sup> | [[1]](https://www.kiboke-studio.hr/i-dont-care-about-cookies/abp/) |
 | [Load from Cache](https://addons.mozilla.org/addon/load-from-cache/) | [✓] Replaced by [Greedy Cache](https://addons.palemoon.org/extensions/greedy-cache/) (non-SDK) | Unknown |
