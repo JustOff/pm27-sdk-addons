@@ -5,6 +5,7 @@
 | [Add URL to Window Title](https://addons.mozilla.org/addon/add-url-to-window-title/) | [✓] Supported since [1.03](https://addons.mozilla.org/en-US/firefox/addon/add-url-to-window-title/versions/1.03) | [[1]](https://addons.mozilla.org/addon/customize_titlebar_v2/) |
 | [cliget](https://addons.mozilla.org/addon/cliget/) | Support request was [accepted](https://github.com/zaidka/cliget/pull/43), awaiting for release | Unknown |
 | [Close last tab with middle-click](https://addons.mozilla.org/addon/close-last-tab-with-middle-/) | [✓] Replaced by [Close last tab with middle-click](https://forum.palemoon.org/viewtopic.php?p=99210#p99210) (non-SDK) | Unknown |
+| [Dark Background and Light Text](https://addons.mozilla.org/addon/dark-background-light-text/) | [✓] Forked as [Advanced Night Mode](https://github.com/JustOff/advanced-night-mode) | Unknown |
 | [Decentraleyes](https://addons.mozilla.org/addon/decentraleyes/) | [✓] Supported since [1.3.7](https://addons.palemoon.org/extensions/decentraleyes/) | Unknown |
 | [Emoji Cheatsheet](https://addons.mozilla.org/addon/emoji-cheatsheet/) | Support request was [accepted](https://github.com/johannhof/emoji-helper/pull/83), awaiting for release | Unknown |
 | [Enjoy Reading](https://addons.mozilla.org/addon/enjoy-reading/) | Support request was [sent](https://github.com/aeris/enjoy-reading/pull/2) | Unknown |
