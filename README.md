@@ -26,4 +26,5 @@
 | [Twitch Now](https://addons.mozilla.org/addon/twitch-now/) | Add-on should be forked based on [1.1.187](https://addons.mozilla.org/en-US/firefox/addon/twitch-now/versions/1.1.187) <sup>[[*]](#testing)</sup> | Unknown |
 | [YouTube ALL HTML5](https://addons.mozilla.org/addon/youtube-all-html5/) | [✓] Supported since  [3.1.1](https://addons.mozilla.org/en-US/firefox/addon/youtube-all-html5/versions/3.1.1) | [[1]](https://greasyfork.org/en/scripts/search?q=youtube) |
 | [YouTube No Buffer](https://addons.mozilla.org/addon/youtube-no-buffer/) | [✓] Replaced by [YouTube Lazy Load](https://addons.palemoon.org/extensions/youtube-lazy-load/) (non-SDK) | Unknown |
+| [About-addons-memory](https://addons.mozilla.org/En-us/firefox/addon/about-addons-memory/) | [✓] Forked as [About-addons-memory-pm  button](https://github.com/intika/about-addons-memory-pm) | Unknown |
 <sup><a name="testing">[*]</a> : &nbsp;Can be temporarily installed using [Moon Tester Tool](https://addons.palemoon.org/extensions/moon-tester-tool/)
