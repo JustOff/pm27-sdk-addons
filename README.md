@@ -13,6 +13,7 @@
 | [Enter Selects](https://addons.mozilla.org/addon/enter-selects/) | Support request was [sent](https://github.com/Mardak/enterSelects/pull/17) | Unknown |
 | [FlashDisable](https://addons.mozilla.org/addon/flashdisable/) | [✓] Supported since [1.2.1](https://addons.mozilla.org/en-US/firefox/addon/flashdisable/versions/1.2.1) | Unknown |
 | [GNotifier](https://addons.mozilla.org/addon/gnotifier/) | Support request was [accepted](https://github.com/mkiol/GNotifier/pull/158), awaiting for release | Unknown |
+| [Hoxx VPN Proxy](https://addons.mozilla.org/addon/hoxx-vpn-proxy/) | Support request was sent via e-mail <sup>[[*]](#testing)</sup> | Unknown |
 | [I don't care about cookies](https://addons.mozilla.org/addon/i-dont-care-about-cookies/) | [✓] Supported since [2.6.5](https://addons.palemoon.org/extensions/i-dont-care-about-cookies/) | [[1]](https://www.kiboke-studio.hr/i-dont-care-about-cookies/abp/) |
 | [Keybinder](https://addons.mozilla.org/addon/keybinder/) | Support request was [sent](https://github.com/Lord-Kamina/keybinder/pull/32) <sup>[[*]](#testing)</sup> | Unknown |
 | [Load from Cache](https://addons.mozilla.org/addon/load-from-cache/) | [✓] Replaced by [Greedy Cache](https://addons.palemoon.org/extensions/greedy-cache/) (non-SDK) | Unknown |
