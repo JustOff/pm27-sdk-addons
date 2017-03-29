@@ -17,6 +17,7 @@
 | [I don't care about cookies](https://addons.mozilla.org/addon/i-dont-care-about-cookies/) | [✓] Supported since [2.6.5](https://addons.palemoon.org/extensions/i-dont-care-about-cookies/) | [[1]](https://www.kiboke-studio.hr/i-dont-care-about-cookies/abp/) |
 | [Keybinder](https://addons.mozilla.org/addon/keybinder/) | Support request was [sent](https://github.com/Lord-Kamina/keybinder/pull/32) <sup>[[*]](#testing)</sup> | Unknown |
 | [Load from Cache](https://addons.mozilla.org/addon/load-from-cache/) | [✓] Replaced by [Greedy Cache](https://addons.palemoon.org/extensions/greedy-cache/) (non-SDK) | Unknown |
+| [Mouseover Bookmarks Toolbar](https://addons.mozilla.org/addon/mouseover-bookmarks-toolbar/) | [✓] Forked as [Responsive Bookmarks Toolbar](https://github.com/JustOff/responsive-bookmarks-toolbar/) | Unknown |
 | [Play/Pause](https://addons.mozilla.org/en-US/firefox/addon/play-pause/) | [✓] Supported since [1.2.2](https://addons.mozilla.org/en-US/firefox/addon/play-pause/versions/1.2.2) | Unknown |
 | [Reddit Enhancement Suite](https://addons.mozilla.org/addon/reddit-enhancement-suite/) | Add-on should be forked based on [4.6.1](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/versions/4.6.1) <sup>[[*]](#testing)</sup> | [[1]](http://userscripts-mirror.org/scripts/show/82915) |
 | [Reload Plus](https://addons.mozilla.org/addon/reload-plus/) | [✓] Supported since [5.2.0](https://addons.mozilla.org/en-US/firefox/addon/reload-plus/versions/5.2.0) | Unknown |
