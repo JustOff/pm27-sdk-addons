@@ -2,7 +2,7 @@
 
 | Original Extension | Pale Moon 27.1 Compatibility Status | Alternative (non-SDK) |
 | -------------- | ----------------------------------- | ----------- |
-| [Add URL to Window Title](https://addons.mozilla.org/addon/add-url-to-window-title/) | [✓] Supported since [1.03](https://addons.mozilla.org/en-US/firefox/addon/add-url-to-window-title/versions/1.03) | [[1]](https://addons.mozilla.org/addon/customize_titlebar_v2/) |
+| [Add URL to Window Title](https://addons.mozilla.org/addon/add-url-to-window-title/) | [✓] Supported since [1.03](https://addons.mozilla.org/en-US/firefox/addon/add-url-to-window-title/versions/1.03) | [[1]](https://addons.mozilla.org/addon/customize-titlebar/) |
 | [Auto-Sort Bookmarks](https://addons.mozilla.org/addon/auto-sort-bookmarks/) | [✓] Supported since [2.10.12](https://addons.mozilla.org/en-US/firefox/addon/auto-sort-bookmarks/versions/2.10.12) | Unknown |
 | [cliget](https://addons.mozilla.org/addon/cliget/) | Support request was [accepted](https://github.com/zaidka/cliget/pull/43), awaiting for release | Unknown |
 | [Close last tab with middle-click](https://addons.mozilla.org/addon/close-last-tab-with-middle-/) | [✓] Replaced by [Close last tab with middle-click](https://forum.palemoon.org/viewtopic.php?p=99210#p99210) (non-SDK) | Unknown |
