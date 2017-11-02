@@ -9,7 +9,7 @@
 | [Dark Background and Light Text](https://addons.mozilla.org/addon/dark-background-light-text/) | [✓] Forked as [Advanced Night Mode](https://addons.palemoon.org/extensions/advanced-night-mode/) | Unknown |
 | [Decentraleyes](https://addons.mozilla.org/addon/decentraleyes/) | [✓] Supported since [1.3.7](https://addons.palemoon.org/extensions/decentraleyes/) | Unknown |
 | [Emoji Cheatsheet](https://addons.mozilla.org/addon/emoji-cheatsheet/) | Support request was [accepted](https://github.com/johannhof/emoji-helper/pull/83), awaiting for release | Unknown |
-| [Enjoy Reading](https://addons.mozilla.org/addon/enjoy-reading/) | Support request was [sent](https://github.com/aeris/enjoy-reading/pull/2) | [[1]](https://addons.mozilla.org/addon/reader/) |
+| [Enjoy Reading](https://addons.mozilla.org/addon/enjoy-reading/) | [✓] Supported since [3.0.2](https://addons.mozilla.org/en-US/firefox/addon/enjoy-reading/versions/3.0.2) | [[1]](https://addons.mozilla.org/addon/reader/) |
 | [Enter Selects](https://addons.mozilla.org/addon/enter-selects/) | Support request was [sent](https://github.com/Mardak/enterSelects/pull/17) | Unknown |
 | [FlashDisable](https://addons.mozilla.org/addon/flashdisable/) | [✓] Supported since [1.2.1](https://addons.mozilla.org/en-US/firefox/addon/flashdisable/versions/1.2.1) | Unknown |
 | [GNotifier](https://addons.mozilla.org/addon/gnotifier/) | Support request was [accepted](https://github.com/mkiol/GNotifier/pull/158), awaiting for release | Unknown |
