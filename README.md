@@ -10,7 +10,7 @@
 | [Close last tab with middle-click](https://addons.mozilla.org/addon/close-last-tab-with-middle-/) | [✓] Replaced by [Close last tab with middle-click](https://forum.palemoon.org/viewtopic.php?p=99210#p99210) (non-SDK) | Unknown |
 | [Dark Background and Light Text](https://addons.mozilla.org/addon/dark-background-light-text/) | [✓] Forked as [Advanced Night Mode](https://addons.palemoon.org/extensions/advanced-night-mode/) | Unknown |
 | [Decentraleyes](https://addons.mozilla.org/addon/decentraleyes/) | [✓] Supported since [1.3.7](https://addons.palemoon.org/extensions/decentraleyes/) | Unknown |
-| [Emoji Cheatsheet](https://addons.mozilla.org/addon/emoji-cheatsheet/) | Support request was [accepted](https://github.com/johannhof/emoji-helper/pull/83), awaiting for release | Unknown |
+| [Emoji Cheatsheet](https://addons.mozilla.org/addon/emoji-cheatsheet/) | [✓] Forked as [Emoji Helper (Moon Edition)](https://github.com/JustOff/emoji-helper-me) | Unknown |
 | [Enjoy Reading](https://addons.mozilla.org/addon/enjoy-reading/) | [✓] Supported since [3.0.2](https://addons.mozilla.org/en-US/firefox/addon/enjoy-reading/versions/3.0.2) | [[1]](https://addons.mozilla.org/addon/reader/) |
 | [Enter Selects](https://addons.mozilla.org/addon/enter-selects/) | Support request was [sent](https://github.com/Mardak/enterSelects/pull/17) | Unknown |
 | [FlashDisable](https://addons.mozilla.org/addon/flashdisable/) | [✓] Supported since [1.2.1](https://addons.mozilla.org/en-US/firefox/addon/flashdisable/versions/1.2.1) | Unknown |
