@@ -1,6 +1,6 @@
-### SDK-based add-ons can be run in Pale Moon 27.1, but they should be [properly adapted](https://github.com/JustOff/pm27-sdk-addons/blob/master/PMkit.md).
+### SDK-based add-ons can be run in Pale Moon 27.1+, but they should be [properly adapted](https://github.com/JustOff/pm27-sdk-addons/blob/master/PMkit.md).
 
-| Original Extension | Pale Moon 27.1 Compatibility Status | Alternative (non-SDK) |
+| Original Extension | Pale Moon 27.1+ Compatibility Status | Alternative (non-SDK) |
 | -------------- | ----------------------------------- | ----------- |
 | [Add URL to Window Title](https://addons.mozilla.org/addon/add-url-to-window-title/) | [✓] Supported since [1.03](https://addons.mozilla.org/en-US/firefox/addon/add-url-to-window-title/versions/1.03) | [[1]](https://addons.mozilla.org/addon/customize-titlebar/) |
 | [Auto-Sort Bookmarks](https://addons.mozilla.org/addon/auto-sort-bookmarks/) | [✓] Supported since [2.10.12](https://addons.mozilla.org/en-US/firefox/addon/auto-sort-bookmarks/versions/2.10.12) | Unknown |
