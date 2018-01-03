@@ -3,6 +3,7 @@
 | Original Extension | Pale Moon 27.1+ Compatibility Status | Alternative (non-SDK) |
 | -------------- | ----------------------------------- | ----------- |
 | [Add URL to Window Title](https://addons.mozilla.org/addon/add-url-to-window-title/) | [✓] Supported since [1.03](https://addons.mozilla.org/en-US/firefox/addon/add-url-to-window-title/versions/1.03) | [[1]](https://addons.mozilla.org/addon/customize-titlebar/) |
+| [Ageless for YouTube](https://addons.mozilla.org/addon/ageless/) | [✓] Forked as [Ageless for YouTube (Moon Edition)](https://github.com/JustOff/ageless-yt-me) | Unknown |
 | [Auto-Sort Bookmarks](https://addons.mozilla.org/addon/auto-sort-bookmarks/) | [✓] Supported since [2.10.12](https://addons.mozilla.org/en-US/firefox/addon/auto-sort-bookmarks/versions/2.10.12) | Unknown |
 | [BehindTheOverlay](https://addons.mozilla.org/addon/behind_the_overlay/) | [✓] Forked as [Behind The Overlay (Moon Edition)](https://addons.palemoon.org/addon/behind-the-overlay-me/) | Unknown |
 | [cliget](https://addons.mozilla.org/addon/cliget/) | Support request was [accepted](https://github.com/zaidka/cliget/pull/43), awaiting for release | Unknown |
