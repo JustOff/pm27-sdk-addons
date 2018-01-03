@@ -12,7 +12,7 @@
 | [Enjoy Reading](https://addons.mozilla.org/addon/enjoy-reading/) | [✓] Supported since [3.0.2](https://addons.mozilla.org/en-US/firefox/addon/enjoy-reading/versions/3.0.2) | [[1]](https://addons.mozilla.org/addon/reader/) |
 | [Enter Selects](https://addons.mozilla.org/addon/enter-selects/) | Support request was [sent](https://github.com/Mardak/enterSelects/pull/17) | Unknown |
 | [FlashDisable](https://addons.mozilla.org/addon/flashdisable/) | [✓] Supported since [1.2.1](https://addons.mozilla.org/en-US/firefox/addon/flashdisable/versions/1.2.1) | Unknown |
-| [GNotifier](https://addons.mozilla.org/addon/gnotifier/) | Support request was [accepted](https://github.com/mkiol/GNotifier/pull/158), awaiting for release | Unknown |
+| [GNotifier](https://addons.mozilla.org/addon/gnotifier/) | [✓] Supported since [1.11.0](https://addons.mozilla.org/en-US/firefox/addon/gnotifier/versions/1.11.0) | Unknown |
 | [h264ify](https://addons.mozilla.org/addon/h264ify/) | [✓] Replaced by [HTML5 Media Tuner](https://addons.palemoon.org/extensions/html5-video-tuner/) (non-SDK) | Unknown |
 | [Hoxx VPN Proxy](https://addons.mozilla.org/addon/hoxx-vpn-proxy/) | Support request was sent via e-mail <sup>[[*]](#testing)</sup> | Unknown |
 | [I don't care about cookies](https://addons.mozilla.org/addon/i-dont-care-about-cookies/) | [✓] Supported since [2.6.5](https://addons.palemoon.org/extensions/i-dont-care-about-cookies/) | [[1]](https://www.kiboke-studio.hr/i-dont-care-about-cookies/abp/) |
