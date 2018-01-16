@@ -3,14 +3,14 @@
 | Original Extension | Pale Moon 27.1+ Compatibility Status | Alternative (non-SDK) |
 | -------------- | ----------------------------------- | ----------- |
 | [Add URL to Window Title](https://addons.mozilla.org/addon/add-url-to-window-title/) | [✓] Supported since [1.03](https://addons.mozilla.org/en-US/firefox/addon/add-url-to-window-title/versions/1.03) | [[1]](https://addons.mozilla.org/addon/customize-titlebar/) |
-| [Ageless for YouTube](https://addons.mozilla.org/addon/ageless/) | [✓] Forked as [Ageless for YouTube (Moon Edition)](https://github.com/JustOff/ageless-yt-me) | Unknown |
+| [Ageless for YouTube](https://addons.mozilla.org/addon/ageless/) | [✓] Forked as [Age Unlimiter for YouTube](https://github.com/JustOff/age-unlimiter-yt) | Unknown |
 | [Auto-Sort Bookmarks](https://addons.mozilla.org/addon/auto-sort-bookmarks/) | [✓] Supported since [2.10.12](https://addons.mozilla.org/en-US/firefox/addon/auto-sort-bookmarks/versions/2.10.12) | Unknown |
-| [BehindTheOverlay](https://addons.mozilla.org/addon/behind_the_overlay/) | [✓] Forked as [Behind The Overlay (Moon Edition)](https://addons.palemoon.org/addon/behind-the-overlay-me/) | Unknown |
+| [BehindTheOverlay](https://addons.mozilla.org/addon/behind_the_overlay/) | [✓] Forked as [Dismiss The Overlay](https://addons.palemoon.org/addon/behind-the-overlay-me/) | Unknown |
 | [cliget](https://addons.mozilla.org/addon/cliget/) | Support request was [accepted](https://github.com/zaidka/cliget/pull/43), awaiting for release | Unknown |
 | [Close last tab with middle-click](https://addons.mozilla.org/addon/close-last-tab-with-middle-/) | [✓] Replaced by [Close last tab with middle-click](https://forum.palemoon.org/viewtopic.php?p=99210#p99210) (non-SDK) | Unknown |
 | [Dark Background and Light Text](https://addons.mozilla.org/addon/dark-background-light-text/) | [✓] Forked as [Advanced Night Mode](https://addons.palemoon.org/extensions/advanced-night-mode/) | Unknown |
 | [Decentraleyes](https://addons.mozilla.org/addon/decentraleyes/) | [✓] Supported since [1.3.7](https://addons.palemoon.org/extensions/decentraleyes/) | Unknown |
-| [Emoji Cheatsheet](https://addons.mozilla.org/addon/emoji-cheatsheet/) | [✓] Forked as [Emoji Helper (Moon Edition)](https://github.com/JustOff/emoji-helper-me) | Unknown |
+| [Emoji Cheatsheet](https://addons.mozilla.org/addon/emoji-cheatsheet/) | [✓] Forked as [Emoji Assistant](https://github.com/JustOff/emoji-assistant) | Unknown |
 | [Enjoy Reading](https://addons.mozilla.org/addon/enjoy-reading/) | [✓] Supported since [3.0.2](https://addons.mozilla.org/en-US/firefox/addon/enjoy-reading/versions/3.0.2) | [[1]](https://addons.mozilla.org/addon/reader/) |
 | [Enter Selects](https://addons.mozilla.org/addon/enter-selects/) | Support request was [sent](https://github.com/Mardak/enterSelects/pull/17) | Unknown |
 | [FlashDisable](https://addons.mozilla.org/addon/flashdisable/) | [✓] Supported since [1.2.1](https://addons.mozilla.org/en-US/firefox/addon/flashdisable/versions/1.2.1) | Unknown |
@@ -25,7 +25,7 @@
 | [Reddit Enhancement Suite](https://addons.mozilla.org/addon/reddit-enhancement-suite/) | Add-on should be forked based on [4.6.1](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/versions/4.6.1) <sup>[[*]](#testing)</sup> | [[1]](http://userscripts-mirror.org/scripts/show/82915) |
 | [Reload Plus](https://addons.mozilla.org/addon/reload-plus/) | [✓] Supported since [5.2.0](https://addons.mozilla.org/en-US/firefox/addon/reload-plus/versions/5.2.0) | Unknown |
 | [Scroll To Top](https://addons.mozilla.org/addon/scroll-to-top/) | [✓] Supported since [4.5.5](https://addons.palemoon.org/addon/scroll-to-top/) | Unknown |
-| [Send Tab to Device](https://addons.mozilla.org/addon/send-tab-to-device/) | [✓] Forked as [Send Tab to Device (Moon Edition)](https://addons.palemoon.org/extensions/send-tab-to-device/) | Unknown |
+| [Send Tab to Device](https://addons.mozilla.org/addon/send-tab-to-device/) | [✓] Forked as [Send Link to Device](https://addons.palemoon.org/extensions/send-tab-to-device/) | Unknown |
 | [Self-Destructing Cookies](https://addons.mozilla.org/addon/self-destructing-cookies/) | [✓] Use alternatives or make a fork based on [0.4.11](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/versions/0.4.11) <sup>[[*]](#testing)</sup> | [[1]](https://addons.mozilla.org/addon/cookies-exterminator/), [[2]](https://addons.palemoon.org/extensions/privacy-and-security/crush-those-cookies/) |
 | [signTextJS plus](https://addons.mozilla.org/addon/signtextjs-plus/) | Add-on should be forked based on [0.8.6](https://addons.mozilla.org/en-US/firefox/addon/signtextjs-plus/versions/0.8.6) <sup>[[*]](#testing)</sup> | Unknown |
 | [Simple YouTube MP3 Button](https://addons.mozilla.org/addon/simple-youtube-mp3-button/) | Support request was sent via e-mail <sup>[[*]](#testing)</sup> | Unknown |
